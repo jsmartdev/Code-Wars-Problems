@@ -19,7 +19,7 @@ Notes:
 ### Solutions:
 
 ```javascript
-function highAndLow(numbers){
+function highAndLow(numbers) {
     const extractNums = numbers.match(/-?\d+/g).map(Number);
     let high = Math.max(...extractNums);
     let low = Math.min(...extractNums);
