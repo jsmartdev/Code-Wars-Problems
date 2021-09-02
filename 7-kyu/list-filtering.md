@@ -45,3 +45,5 @@ function filter_list(l) {
 **[Filter Coffee](https://www.codewars.com/kata/56069d0c4af7f633910000d3)**
 
 **[Filter out for good!](https://www.codewars.com/kata/56035d75426e197c3e0000a2)**
+
+[![wakatime](https://wakatime.com/badge/github/jsmartdev/ZTM-Complete-Web-Dev-2021.svg)](https://wakatime.com/badge/github/jsmartdev/ZTM-Complete-Web-Dev-2021)
