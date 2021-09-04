@@ -1,4 +1,4 @@
-##[Ensure question](https://www.codewars.com/kata/5866fc43395d9138a7000006/javascript)
+## [Ensure question](https://www.codewars.com/kata/5866fc43395d9138a7000006/javascript)
 
 ### Problem:
 
